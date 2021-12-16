@@ -106,9 +106,6 @@ export default {
     handleClose(key, keyPath) {
       console.log(key, keyPath);
     },
-    // forceRender() {
-    //   this.componentKey += 1;
-    // },
   },
 };
 </script>
