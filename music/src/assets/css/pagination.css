@@ -1,0 +1,16 @@
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+  background-color: rgb(236,65,65)!important;
+  color: #FFF!important;
+}
+
+.el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev, .el-pagination.is-background .el-pager li {
+  color: rgb(103,103,103)!important;
+}
+
+.el-pagination.is-background .el-pager li:not(.disabled):hover {
+  color: rgb(103,103,103)!important;
+}
+
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+  color: #FFF!important;
+}

@@ -1,0 +1,14 @@
+.selfInput .el-input__inner {
+  border-color: rgb(225, 62, 62);
+  border-radius: 20px;
+  color: #fff;
+  background-color: rgb(225, 62, 62)
+}
+
+.selfInput .el-input__inner:focus {
+  border-color: #C0C4CC;
+}
+
+.inputMsg .el-input__inner {
+  border-color: #C0C4CC;
+}

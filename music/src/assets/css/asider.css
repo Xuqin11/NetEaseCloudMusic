@@ -1,0 +1,39 @@
+.el-row {
+  text-align: left;
+}
+
+.el-menu {
+  border: none!important;
+}
+
+.el-menu-item:focus, .el-menu-item:hover {
+  outline: 0;
+  background-color: rgb(245,245,246)!important;
+}
+
+.el-submenu__title:hover {
+  background-color: #fff!important;
+}
+
+.el-menu-item.is-active {
+  color: rgb(53,53,53)!important;
+  background-color: rgb(245,245,246)!important;
+}
+
+.el-submenu .el-menu-item {
+  padding: 0 22px!important;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* .el-submenu .el-menu-item */
+
+.el-submenu__title {
+  height: 30px!important;
+  line-height: 30px!important;
+  color: rgb(159,159,159)!important;
+}
+
+.el-aside {
+  overflow: hidden!important;
+}

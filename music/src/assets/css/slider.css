@@ -1,0 +1,32 @@
+.sliderDiv .el-slider {
+  width: 70%!important;
+}
+
+.sliderDiv .el-slider__button {
+  width: 8px!important;
+  height: 8px!important;
+  border: 2px solid rgb(255,78,78)!important;
+}
+
+.sliderDiv .el-slider__bar {
+  background-color: rgb(255,78,78)!important;
+}
+
+.sliderDiv .el-slider__button:hover,
+.sliderDiv .el-slider__button-wrapper:hover {
+  cursor: default;
+}
+
+.volume .el-slider {
+  width: 100px;
+}
+
+.volume .el-slider__button {
+  width: 8px!important;
+  height: 8px!important;
+  border: 2px solid rgb(255,78,78)!important;
+}
+
+.volume .el-slider__bar {
+  background-color: rgb(255,78,78)!important;
+}

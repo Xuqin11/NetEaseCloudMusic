@@ -1,0 +1,32 @@
+.message .el-button--info {
+  border-color: rgb(236,65,65);
+  color: #C0C4CC;
+  background-color: rgb(236,65,65);
+}
+
+.message .el-button--info:hover {
+  color: #fff;
+  border-color: rgb(236,65,65);
+  background-color: rgb(236,65,65);
+}
+
+.message .el-button--info:focus {
+  border-color: rgb(236,65,65);
+  background-color: rgb(236,65,65);
+}
+
+.message .el-button--info:focus {
+  border-color: #fff;
+  color: #C0C4CC;
+  background-color: #fff;
+}
+
+.LoginDiv .el-button {
+  margin-top: 100px;
+  border-color: #C0C4CC;
+}
+
+.LoginDiv .el-button:hover {
+  color: rgb(96,98,102);
+  background-color: #fff;
+}
